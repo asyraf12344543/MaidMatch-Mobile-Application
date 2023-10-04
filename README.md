@@ -23,6 +23,7 @@ Observation → Ideation → Design
 ➔ Ideation - The idea of this application could make the process of finding a suitable maid more efficient and convenient. It could allow users to search for maids based on different criteria such as location, experience, and availability, and also provide reviews and ratings of the maids. Additionally, it could also include features such as scheduling and payment, making the process of hiring a maid more streamlined. 
 
 ➔ Design - Based on the research findings, the next step would be to create wireframes and prototypes for the app using a software called figma. These could include features such as:
+
 ◆ A search function that allows users to filter maids based on criteria such as location, experience, and availability. 
 ◆ Profiles for maids that include information such as their experience, skills, and ratings and reviews from previous clients 
 ◆ A messaging or call function that allows users to communicate with maids directly 

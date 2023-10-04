@@ -24,9 +24,9 @@ Observation → Ideation → Design
 
 ➔ Design - Based on the research findings, the next step would be to create wireframes and prototypes for the app using a software called figma. These could include features such as:
 
-◆ A search function that allows users to filter maids based on criteria such as location, experience, and availability. 
-◆ Profiles for maids that include information such as their experience, skills, and ratings and reviews from previous clients 
-◆ A messaging or call function that allows users to communicate with maids directly 
-◆ A scheduling and payment feature that allows users to book and pay for services directly through the app 
-◆ A rating system that allows users to rate and review the service provided by the maids 
-◆ A feature that allows maids to update their availability and see the schedules of their clients 
+1. A search function that allows users to filter maids based on criteria such as location, experience, and availability. 
+2. Profiles for maids that include information such as their experience, skills, and ratings and reviews from previous clients 
+3. A messaging or call function that allows users to communicate with maids directly
+4. A scheduling and payment feature that allows users to book and pay for services directly through the app
+5. A rating system that allows users to rate and review the service provided by the maids
+6. A feature that allows maids to update their availability and see the schedules of their clients 
